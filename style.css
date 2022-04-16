@@ -330,6 +330,15 @@ section .title::after {
     content: "what i do";
 }
 
+.projects-skills .title::before {
+    background: #111;
+}
+
+.projects-skills .title::after {
+    background: #fff;
+    content: "what i do";
+}
+
 .projects .serv-content .card {
     width: calc(33% - 20px);
     background: #222;
@@ -343,6 +352,24 @@ section .title::after {
 
 .projects .serv-content .card:hover {
     background: #A435F0;
+}
+
+.projects .serv-content .card2 {
+    width: calc(33% - 20px);
+    background: #A435F0;
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+    padding: 35px 25px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    margin-top: 25px;
+}
+
+.projects .serv-content .card2:hover {
+    background: white;
+    color: #A435F0;
+    border: 2px solid #A435F0;
 }
 
 .projects .serv-content .card a {
