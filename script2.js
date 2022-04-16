@@ -3,9 +3,9 @@ document.getElementById("medium_button").addEventListener('click', function() {
 });
 
 document.getElementById("dribble_button").addEventListener('click', function() {
-    window.open("https://dribble.com/mdwikidestian", '_blank').focus();
+    window.open("https://dribbble.com/mdwikidestian", '_blank').focus();
 });
 
 document.getElementById("behance_button").addEventListener('click', function() {
-    window.open("https: //www.behance.net/dwikidestian", '_blank').focus();
+    window.open("https://www.behance.net/dwikidestian", '_blank').focus();
 });
