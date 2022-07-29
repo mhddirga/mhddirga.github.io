@@ -336,7 +336,7 @@ section .title::after {
 
 .projects-skills .title::after {
     background: #fff;
-    content: "what i do";
+    content: "who i follow";
 }
 
 .projects .serv-content .card {
@@ -402,7 +402,7 @@ section .title::after {
 /* skills section styling */
 
 .skills .title::after {
-    content: "what i know";
+    content: "who i follow";
 }
 
 .skills .skills-content .column {
@@ -497,7 +497,7 @@ section .title::after {
 /* certification section styling */
 
 .certification .title::after {
-    content: "who i follow";
+    content: "what i have";
 }
 
 .certification .carousel .card {
