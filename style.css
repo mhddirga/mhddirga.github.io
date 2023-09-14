@@ -327,7 +327,7 @@ section .title::after {
 .projects .title::after,
 .certification .title::after {
     background: #111;
-    content: "Apa yang Saya Lakukan?";
+    content: "Proyek Saya?";
 }
 
 .projects-skills .title::before {
@@ -336,7 +336,7 @@ section .title::after {
 
 .projects-skills .title::after {
     background: #fff;
-    content: "Siapa yang Saya Ikuti?";
+    content: "Yang Diikuti?";
 }
 
 .projects .serv-content .card {
@@ -402,7 +402,7 @@ section .title::after {
 /* skills section styling */
 
 .skills .title::after {
-    content: "Siapa yang Saya Ikuti?";
+    content: "Yang Diikuti?";
 }
 
 .skills .skills-content .column {
@@ -497,7 +497,7 @@ section .title::after {
 /* certification section styling */
 
 .certification .title::after {
-    content: "Apa yang Saya Miliki?";
+    content: "Hasil Saya?";
 }
 
 .certification .carousel .card {
